@@ -1,0 +1,46 @@
+{
+    "app_id": "com.winixeg.zys",
+    "appname": "ZYS Mobile",
+    "desktopappname": "ZYS Desktop",
+    "versioncode": 3820,
+    "versionname": "3.8.2",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
+    "default_lang": "en",
+    "languages": {
+        "ar": "عربي",
+        "de": "Deutsch",
+        "en": "English",
+        "fr": "Français"
+
+    },
+    "wsservice": "moodle_mobile_app",
+    "wsextservice": "local_mobile",
+    "demo_sites":"",
+    "gcmpn": "480928063744",
+    "font_sizes": [
+        62.5,
+        75.89,
+        93.75
+    ],
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http:\/\/portal.zys-egypt.com",
+    "sitename": "ZYS",
+    "multisitesdisplay": "",
+    "skipssoconfirmation": false,
+    "forcedefaultlanguage": false,
+    "privacypolicy": "https:\/\/moodle.net\/moodle-app-privacy\/",
+    "notificoncolor": "#f98012",
+    "statusbarbg": false,
+    "statusbarlighttext": false,
+    "statusbarbgios": "#f98012",
+    "statusbarlighttextios": true,
+    "statusbarbgandroid": "#df7310",
+    "statusbarlighttextandroid": true,
+    "statusbarbgremotetheme": "#000000",
+    "statusbarlighttextremotetheme": true,
+    "enableanalytics": false,
+    "forceColorScheme": ""
+}
